@@ -72,7 +72,7 @@ The results should be interpreted in the context of the quality and completeness
 
 If you use this model in academic research or publications, please cite it as follows:
 
-ArkoGIS. ArkoGIS Health Facility Population Model (QGIS). Version 1.0.0, 2026. GitHub: [https://github.com/ArkoGIS/ArkoGIS_Health_Facility_Population_Model/blob/main/README.md].
+ArkoGIS. ArkoGIS Health Facility Population Model (QGIS). Version 1.0.0, 2026. GitHub: [https://github.com/ArkoGIS/ArkoGIS_Health_Facility_Population_Model/blob/main/].
 
 ## Author and Developer
 

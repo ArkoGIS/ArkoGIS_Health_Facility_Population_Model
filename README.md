@@ -10,11 +10,11 @@ The resulting indicator can support preliminary public health planning, spatial 
 
 ## Key Features
 
-**- Automated Calculation:** Calculates the population-per-health-facility ratio for each district.
-**- Administrative-Level Analysis:** Uses district boundaries, health facility locations, and population data.
-**- Attribute Table Update:** Adds a new field named "PopPERFac" to the district layer to store the calculated values.
-**- Reusable Workflow:** Can be applied to other administrative areas when compatible boundary, facility, and population data are available.
-**- Further GIS Analysis:** The calculated indicator can be used for thematic mapping and additional spatial analysis in QGIS.
+- **Automated Calculation:** Calculates the population-per-health-facility ratio for each district.
+- **Administrative-Level Analysis:** Uses district boundaries, health facility locations, and population data.
+- **Attribute Table Update:** Adds a new field named "PopPERFac" to the district layer to store the calculated values.
+- **Reusable Workflow:** Can be applied to other administrative areas when compatible boundary, facility, and population data are available.
+- **Further GIS Analysis:** The calculated indicator can be used for thematic mapping and additional spatial analysis in QGIS.
 
 ## Methodology
 

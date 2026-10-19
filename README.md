@@ -24,9 +24,8 @@ Population per Health Facility = District Population Count / Number of Health Fa
 
 ## Where:
 
--**District Population Count:** The population count provided in the selected population field.
-
--**Number of Health Facilities:** The number of mapped health facility points located within the district.
+- **District Population Count:** The population count provided in the selected population field.
+- **Number of Health Facilities:** The number of mapped health facility points located within the district.
 
 The calculated value is stored in a new attribute field named **"PopPERFac"** in the district layer.
 

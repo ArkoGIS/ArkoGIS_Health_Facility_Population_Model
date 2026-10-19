@@ -20,7 +20,7 @@ The resulting indicator can support preliminary public health planning, spatial 
 
 For each district, the model calculates the population per health facility using the following formula:
 
-Population per Health Facility = District Population Count / Number of Health Facilities in the District
+Population per Health Facility = (District Population Count) / (Number of Health Facilities in the District)
 
 ## Where:
 

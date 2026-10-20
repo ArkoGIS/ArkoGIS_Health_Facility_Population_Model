@@ -70,7 +70,7 @@ The results should be interpreted in the context of the quality and completeness
 
 ## Citation
 
-ArkoGIS. (2026). ArkoGIS/ArkoGIS_Health_Facility_Population_Model: ArkoGIS – Health Facility Population Model (QGIS) v1.0.0 (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23491032
+ArkoGIS. (2026). ArkoGIS/ArkoGIS_Health_Facility_Population_Model: ArkoGIS – Health Facility Population Model (QGIS) v1.0.0 (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23491031
 
 ## Author and Developer
 

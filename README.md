@@ -77,9 +77,8 @@ GitHub:[https://github.com/ArkoGIS/ArkoGIS_Health_Facility_Population_Model].
 
 ## Author and Developer
 
-**ArkoGIS | GIS Mapping & Spatial Analysis**
-
-Developed by ArkoGIS for public health GIS, spatial analysis, and research applications.
+**Hashem S. Arkok**
+Developed and published under the **ArkoGIS | GIS Mapping & Spatial Analysis** brand.
 
 ## License
 
